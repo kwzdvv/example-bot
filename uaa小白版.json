@@ -1,0 +1,44 @@
+[
+  {
+    "bookSourceComment": "By小新\n首发论坛:https://srcbbs.com/\n\t——250519\n请不要修改注释\n正文字体替换来自夜泽川大佬",
+    "bookSourceGroup": "aa小说",
+    "bookSourceName": "第一站",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.diyizhan.cc/",
+    "customOrder": 1018,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "[\n\n{\"title\":\"排行榜\",\"url\":\"\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\n\n{\"title\":\"总点击榜\",\"url\":\"/allvisit-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"月点击榜\",\"url\":\"/monthvisit-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"周点击榜\",\"url\":\"/weekvisit-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"总推荐榜\",\"url\":\"/allvote-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"月推荐榜\",\"url\":\"/monthvote-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"收藏排行\",\"url\":\"/goodnum-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"最近更新\",\"url\":\"/lastupdate-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"新书上架\",\"url\":\"/postdate-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"字数排行\",\"url\":\"/size-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n\n\n\n{\"title\":\"书库\",\"url\":\"/all-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},{\"title\":\"家庭乱伦\",\"url\":\"/xuanhuan-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"人妻女友\",\"url\":\"/xianxia-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"古典玄幻\",\"url\":\"/dushi-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"都市生活\",\"url\":\"/junshi-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"学生校园\",\"url\":\"/wangyou-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"强暴性虐\",\"url\":\"/kehuan-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"多人群交\",\"url\":\"/lingyi-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"绿帽主题\",\"url\":\"/yanqing-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"其他小说\",\"url\":\"/qita-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"全本\",\"url\":\"\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},{\"title\":\"家庭乱伦\",\"url\":\"/xuanhuan-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"人妻女友\",\"url\":\"/xianxia-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"古典玄幻\",\"url\":\"/dushi-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"都市生活\",\"url\":\"/junshi-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"学生校园\",\"url\":\"/wangyou-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"强暴性虐\",\"url\":\"/kehuan-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"多人群交\",\"url\":\"/lingyi-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"绿帽主题\",\"url\":\"/yanqing-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},{\"title\":\"其他小说\",\"url\":\"/qita-{{page}}.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}}\n\n\n]\n\n",
+    "header": "{\"User-Agent\":\"Mozilla/5.0 (Linux; U; Android 13; zh-Hans-CN; PFJM10 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.4896.58 Quark/6.13.6.581 Mobile Safari/537.36\",\"Accept-Language\":\"zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7\"}",
+    "lastUpdateTime": 1748062918013,
+    "respondTime": 180000,
+    "ruleBookInfo": {
+      "coverUrl": "[name=\"twitter:image\"]@content",
+      "kind": "[property=\"og:novel:category\"]@content&&[property=\"og:novel:update_time\"]@content",
+      "wordCount": ".booktag@span.0@text"
+    },
+    "ruleContent": {
+      "content": "<js>\nvar na=source.bookSourceComment;\n\nvar ra=java.base64Decode('QnnlsI/mlrAK6aaW5Y+R6K665Z2bOmh0dHBzOi8vc3JjYmJzLmNvbS8=');\n\nif(na.includes(ra)){\n   result=java['getString']('[class=\"readcontent\"]@textNodes');\n}\nelse{\tresult=java.base64Decode('6K+35LiN6KaB5L+u5pS55L2c6ICFLOivt+S4jeimgeebl+a6kA==');\n\t}\n\tresult\n</js>",
+      "nextContentUrl": "text.下一页@href",
+      "replaceRegex": "\n<js>\n//字体替换，以下代码勿动🚫，手打很累😢。\nvar ys = [\"\\ue800\",\"\\ue801\",\"\\ue802\",\"\\ue803\",\"\\ue804\",\"\\ue805\",\"\\ue806\",\"\\ue807\",\"\\ue808\",\"\\ue809\",\"\\ue80A\",\"\\ue80B\",\"\\ue80C\",\"\\ue80D\",\"\\ue80E\",\"\\ue80F\",\"\\ue810\",\"\\ue811\",\"\\ue812\",\"\\ue813\",\"\\ue814\",\"\\ue815\",\"\\ue816\",\"\\ue817\",\"\\ue818\",\"\\ue819\",\"\\ue81A\",\"\\ue81B\",\"\\ue81C\",\"\\ue81D\",\"\\ue81E\",\"\\ue81F\",\"\\ue820\",\"\\ue821\",\"\\ue822\",\"\\ue823\",\"\\ue824\",\"\\ue825\",\"\\ue826\",\"\\ue827\",\"\\ue828\",\"\\ue829\",\"\\ue82A\",\"\\ue82B\",\"\\ue82C\",\"\\ue82D\",\"\\ue82E\",\"\\ue82F\",\"\\ue830\",\"\\ue831\",\"\\ue832\",\"\\ue833\",\"\\ue834\",\"\\ue835\",\"\\ue836\",\"\\ue837\",\"\\ue838\",\"\\ue839\",\"\\ue83A\",\"\\ue83B\",\"\\ue83C\",\"\\ue83D\",\"\\ue83E\",\"\\ue83F\",\"\\ue840\",\"\\ue841\",\"\\ue842\",\"\\ue843\",\"\\ue844\",\"\\ue845\",\"\\ue846\",\"\\ue847\",\"\\ue848\",\"\\ue849\",\"\\ue84A\",\"\\ue84B\",\"\\ue84C\",\"\\ue84D\",\"\\ue84E\",\"\\ue84F\",\"\\ue850\",\"\\ue851\",\"\\ue852\",\"\\ue853\",\"\\ue854\",\"\\ue855\",\"\\ue856\",\"\\ue857\",\"\\ue858\",\"\\ue859\",\"\\ue85A\",\"\\ue85B\",\"\\ue85C\",\"\\ue85D\",\"\\ue85E\",\"\\ue85F\",\"\\ue860\",\"\\ue861\",\"\\ue862\",\"\\ue863\"];\nvar th = [\"的\",\"一\",\"是\",\"了\",\"我\",\"不\",\"人\",\"在\",\"他\",\"有\",\"这\",\"个\",\"上\",\"们\",\"来\",\"到\",\"时\",\"大\",\"地\",\"为\",\"子\",\"中\",\"你\",\"说\",\"生\",\"国\",\"年\",\"着\",\"就\",\"那\",\"和\",\"要\",\"她\",\"出\",\"也\",\"得\",\"里\",\"后\",\"自\",\"以\",\"会\",\"家\",\"可\",\"下\",\"而\",\"过\",\"天\",\"去\",\"能\",\"对\",\"小\",\"多\",\"然\",\"于\",\"心\",\"学\",\"么\",\"之\",\"都\",\"好\",\"看\",\"起\",\"发\",\"当\",\"没\",\"成\",\"只\",\"如\",\"事\",\"把\",\"还\",\"用\",\"第\",\"样\",\"道\",\"想\",\"作\",\"种\",\"开\",\"美\",\"乳\",\"阴\",\"液\",\"茎\",\"欲\",\"呻\",\"肉\",\"交\",\"性\",\"胸\",\"私\",\"穴\",\"淫\",\"臀\",\"舔\",\"射\",\"脱\",\"裸\",\"骚\",\"唇\"];\n\nif (ys.length === th.length) {\n    for (var i = 0; i < ys.length; i++) {\n        result = result.replace(new RegExp(ys[i], 'g'), th[i]);\n       }\n  } else {\n  \tjava.toast(\"让你不要乱动了😡\");\n  \tresult = result;\n  \t}\n  \tresult;\n</js>"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": ".author@text",
+      "bookList": "[class=\"bookbox\"]",
+      "bookUrl": "a.-1@href##go##zhan",
+      "intro": ".update@textNodes",
+      "lastChapter": ".cat@a@text",
+      "name": ".bookname@text",
+      "wordCount": ".bookname@div.1@text"
+    },
+    "ruleToc": {
+      "chapterList": "[id=\"list-chapterAll\"]@dd",
+      "chapterName": "a.0@text",
+      "chapterUrl": "a.0@href"
+    },
+    "searchUrl": "{{cookie.removeCookie(source.key)}}/modules/article/search.php,{\n\t\"body\": \"searchkey={{key}}&action=login&submit=\",\n\t\"method\": \"POST\",\n\t\"charset\": \"GBK\"\n}",
+    "weight": 0
+  }
+]
